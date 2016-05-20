@@ -1,0 +1,187 @@
+﻿{"frames": {
+
+"FatCat_Swipe20000":
+{
+	"frame": {"x":20,"y":20,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20001":
+{
+	"frame": {"x":460,"y":20,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20002":
+{
+	"frame": {"x":900,"y":20,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20003":
+{
+	"frame": {"x":1340,"y":20,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20004":
+{
+	"frame": {"x":20,"y":416,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20005":
+{
+	"frame": {"x":460,"y":416,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20006":
+{
+	"frame": {"x":900,"y":416,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20007":
+{
+	"frame": {"x":1340,"y":416,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20008":
+{
+	"frame": {"x":20,"y":812,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20009":
+{
+	"frame": {"x":460,"y":812,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20010":
+{
+	"frame": {"x":900,"y":812,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20011":
+{
+	"frame": {"x":1340,"y":812,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20012":
+{
+	"frame": {"x":20,"y":1208,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20013":
+{
+	"frame": {"x":460,"y":1208,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20014":
+{
+	"frame": {"x":900,"y":1208,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20015":
+{
+	"frame": {"x":1340,"y":1208,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20016":
+{
+	"frame": {"x":20,"y":1604,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20017":
+{
+	"frame": {"x":460,"y":1604,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20018":
+{
+	"frame": {"x":900,"y":1604,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20019":
+{
+	"frame": {"x":1340,"y":1604,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20020":
+{
+	"frame": {"x":20,"y":2000,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+},
+"FatCat_Swipe20021":
+{
+	"frame": {"x":460,"y":2000,"w":420,"h":376},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":420,"h":376},
+	"sourceSize": {"w":420,"h":376}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "FatCat_Swipe2.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

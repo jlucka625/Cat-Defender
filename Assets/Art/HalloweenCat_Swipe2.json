@@ -1,0 +1,155 @@
+﻿{"frames": {
+
+"HalloweenCat_Swipe20000":
+{
+	"frame": {"x":20,"y":20,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20001":
+{
+	"frame": {"x":492,"y":20,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20002":
+{
+	"frame": {"x":964,"y":20,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20003":
+{
+	"frame": {"x":1436,"y":20,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20004":
+{
+	"frame": {"x":20,"y":443,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20005":
+{
+	"frame": {"x":492,"y":443,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20006":
+{
+	"frame": {"x":964,"y":443,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20007":
+{
+	"frame": {"x":1436,"y":443,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20008":
+{
+	"frame": {"x":20,"y":866,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20009":
+{
+	"frame": {"x":492,"y":866,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20010":
+{
+	"frame": {"x":964,"y":866,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20011":
+{
+	"frame": {"x":1436,"y":866,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20012":
+{
+	"frame": {"x":20,"y":1289,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20013":
+{
+	"frame": {"x":492,"y":1289,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20014":
+{
+	"frame": {"x":964,"y":1289,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20015":
+{
+	"frame": {"x":1436,"y":1289,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20016":
+{
+	"frame": {"x":20,"y":1712,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+},
+"HalloweenCat_Swipe20017":
+{
+	"frame": {"x":492,"y":1712,"w":452,"h":403},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":452,"h":403},
+	"sourceSize": {"w":452,"h":403}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "HalloweenCat_Swipe2.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

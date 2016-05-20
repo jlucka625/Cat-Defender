@@ -1,0 +1,283 @@
+﻿{"frames": {
+
+"Halloween_IdleSwipe0000":
+{
+	"frame": {"x":0,"y":0,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0001":
+{
+	"frame": {"x":466,"y":0,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0002":
+{
+	"frame": {"x":932,"y":0,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0003":
+{
+	"frame": {"x":1398,"y":0,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0004":
+{
+	"frame": {"x":1864,"y":0,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0005":
+{
+	"frame": {"x":2330,"y":0,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0006":
+{
+	"frame": {"x":2796,"y":0,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0007":
+{
+	"frame": {"x":3262,"y":0,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0008":
+{
+	"frame": {"x":0,"y":420,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0009":
+{
+	"frame": {"x":466,"y":420,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0010":
+{
+	"frame": {"x":932,"y":420,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0011":
+{
+	"frame": {"x":1398,"y":420,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0012":
+{
+	"frame": {"x":1864,"y":420,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0013":
+{
+	"frame": {"x":2330,"y":420,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0014":
+{
+	"frame": {"x":2796,"y":420,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0015":
+{
+	"frame": {"x":3262,"y":420,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0016":
+{
+	"frame": {"x":0,"y":840,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0017":
+{
+	"frame": {"x":466,"y":840,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0018":
+{
+	"frame": {"x":932,"y":840,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0019":
+{
+	"frame": {"x":1398,"y":840,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0020":
+{
+	"frame": {"x":1864,"y":840,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0021":
+{
+	"frame": {"x":2330,"y":840,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0022":
+{
+	"frame": {"x":2796,"y":840,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0023":
+{
+	"frame": {"x":3262,"y":840,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0024":
+{
+	"frame": {"x":0,"y":1260,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0025":
+{
+	"frame": {"x":466,"y":1260,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0026":
+{
+	"frame": {"x":932,"y":1260,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0027":
+{
+	"frame": {"x":1398,"y":1260,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0028":
+{
+	"frame": {"x":1864,"y":1260,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0029":
+{
+	"frame": {"x":2330,"y":1260,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0030":
+{
+	"frame": {"x":2796,"y":1260,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0031":
+{
+	"frame": {"x":3262,"y":1260,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0032":
+{
+	"frame": {"x":0,"y":1680,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+},
+"Halloween_IdleSwipe0033":
+{
+	"frame": {"x":466,"y":1680,"w":466,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":466,"h":420},
+	"sourceSize": {"w":466,"h":420}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.1.179",
+	"image": "Halloween_IdleSwipe.png",
+	"format": "RGBA8888",
+	"size": {"w":4096,"h":4096},
+	"scale": "1"
+}
+}
